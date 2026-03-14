@@ -3,7 +3,7 @@
 {
 	"name": "Node.js",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/javascript-node:4-24-trixie"
+	"image": "mcr.microsoft.com/devcontainers/javascript-node:4-24-trixie",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
@@ -24,7 +24,7 @@
 			],
 			"settings": {
 				"editor.fontSize": 32,
-				"terminal.integrated.fontSize": 24,
+				"terminal.integrated.fontSize": 12,
 				"editor.wordWrap": "on"
 			}
 			
