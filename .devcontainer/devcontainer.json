@@ -25,7 +25,10 @@
 			"settings": {
 				"editor.fontSize": 32,
 				"terminal.integrated.fontSize": 12,
-				"editor.wordWrap": "on"
+				"editor.wordWrap": "on",
+				"editor.fontFamily": "JetBrains Mono",
+  				"editor.fontLigatures": true,
+ 				 "terminal.integrated.fontFamily": "JetBrains Mono"
 			}
 			
 		}
